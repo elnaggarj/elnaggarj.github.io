@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://graduatestudies.lsuhsc.edu/md_phd/jacob_elnaggar.aspx'>MD/PhD Candidate at LSUHSC New Orleans</a>
 
 profile:
   align: right
