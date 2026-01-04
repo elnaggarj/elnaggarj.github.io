@@ -16,11 +16,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Jacob Elnaggar. I completed a Bachelors of Science in Bioinformatics at Baylor University in 2018. I am currently an MD/PhD Candidate at LSU School of Medicine in New Orleans, LA.
+I am an MD/PhD candidate at LSU Health Sciences Center with doctoral training in computational biology and a clinical focus in radiation oncology. My work centers on applying quantitative and data-driven approaches to problems in cancer biology and clinical oncology, with an emphasis on translation and real-world relevance.
 
-My background is in computer science as well as biological science, and I am specifically interested in big data analysis, machine learning, and personalized medicine.
+My PhD research focused on the vaginal and cervical microbiome, where I developed machine learning models to study dysbiosis, infection, and cancer-associated microbial states in large clinical cohorts. This work combined statistical modeling, neural networks, and feature-importance methods with close collaboration across clinical and wet-lab teams. A recurring theme of my research is understanding how biological context and treatment exposures interact in ways that influence disease progression and therapeutic response.
 
-I have a passion for coding, and I am fluent in R, Python, C++, and more.
+During medical training, I was drawn to radiation oncology for similar reasons. The field integrates biology, physics, and technology in a way that rewards precision and careful decision-making. My clinical and research interests include radiation biology, tumor microenvironment and microbiome interactions, and the use of AI-driven models to support prediction, treatment planning, and personalization of care.
+
+I am pursuing a physician-scientist career path with the goal of maintaining an active research program alongside clinical practice. I am particularly interested in work that bridges computational modeling with prospective clinical questions and translational oncology.
+
+Outside of medicine and research, I practice film photography. The discipline and intentionality of working in an analog medium has shaped how I approach both scientific work and clinical care, with attention to framing, uncertainty, and thoughtful interpretation.
+
+This site serves as a curated space for my research projects, academic interests, and selected creative work.
 
 <br><br>
 
