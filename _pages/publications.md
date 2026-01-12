@@ -1,9 +1,3 @@
----
-layout: page
-permalink: /publications/
-title: publications
-
-
 <style>
 .blue-link {
   color: #1ea7c8;
@@ -14,6 +8,11 @@ title: publications
   text-decoration: underline;
 }
 </style>
+
+---
+layout: page
+permalink: /publications/
+title: publications
 
 For additional publications see
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/jacob.elnaggar.2/bibliography/public/"
