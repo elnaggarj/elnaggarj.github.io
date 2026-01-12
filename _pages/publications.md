@@ -2,9 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-nav: true
-nav_order: 2
----
+
 
 <style>
 .blue-link {
@@ -22,3 +20,7 @@ For additional publications see
    class="blue-link">
   my NCBI bibliography
 </a>
+
+nav: true
+nav_order: 2
+---
