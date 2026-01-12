@@ -113,8 +113,16 @@
   ],
   "interests": [
     {
-      "name": "Film photography, Comeptitive swimming, Tennis",
-      "icon": "fa-solid fa-tag",
+      "name": "Film photography",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Competitive swimming",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Tennis",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
