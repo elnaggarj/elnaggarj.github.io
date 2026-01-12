@@ -1,7 +1,7 @@
 ---
 title: Predicting Incident Bacterial Vaginosis with Machine Learning
 description: Longitudinal microbiome modeling to predict bacterial vaginosis before clinical onset.
-category: research
+category: work
 featured: true
 img: /assets/img/projects/incident_bv_pipeline.png
 ---
