@@ -1,14 +1,3 @@
-<style>
-.blue-link {
-  color: #1ea7c8;
-  text-decoration: none;
-}
-
-.blue-link:hover {
-  text-decoration: underline;
-}
-</style>
-
 ---
 layout: page
 permalink: /publications/
@@ -16,7 +5,7 @@ title: publications
 
 For additional publications see
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/jacob.elnaggar.2/bibliography/public/"
-   class="blue-link">
+   style="color:#1ea7c8;">
   my NCBI bibliography
 </a>
 
