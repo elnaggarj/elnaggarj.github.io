@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://graduatestudies.lsuhsc.edu/md_phd/jacob_elnaggar.aspx'>MD/PhD Candidate at LSUHSC New Orleans</a>
 
