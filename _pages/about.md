@@ -6,7 +6,7 @@ subtitle: <a href='https://graduatestudies.lsuhsc.edu/md_phd/jacob_elnaggar.aspx
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #
 
