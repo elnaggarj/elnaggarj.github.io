@@ -5,7 +5,7 @@ description: Longitudinal microbiome modeling to predict bacterial vaginosis bef
 img: assets/img/BVthumbnail.png
 importance: 2
 category: Research
-related_publications: true
+related_publications: false
 ---
 
 
