@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://elnaggarj.github.io/sitemap.xml
+Sitemap: https://jacobelnaggar.com/sitemap.xml
