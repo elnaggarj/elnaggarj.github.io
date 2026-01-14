@@ -24,28 +24,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.pub-list .badge {
-  font-size: 0.75rem;
-  padding: 0.35em 0.6em;
-  border-radius: 0.4rem;
-  margin-right: 0.75rem;
-  font-weight: 500;
-}
-
-/* Manuscripts */
-.pubtype-manuscript {
-  background-color: #0d6efd;
-  color: #fff;
-}
-
-/* Poster presentations */
-.pubtype-poster-presentation {
-  background-color: #198754;
-  color: #fff;
-}
-
-/* Abstracts / Orals */
-.pubtype-oral-presentation {
-  background-color: #6f42c1;
-  color: #fff;
-}
