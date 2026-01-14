@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"Manuscript":
+  color: "#0d6efd"
+
+"Poster presentation":
+  color: "#198754"
+
+"Abstract":
+  color: "#6f42c1"
+
+"Oral presentation":
+  color: "#6f42c1"
