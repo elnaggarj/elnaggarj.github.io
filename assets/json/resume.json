@@ -44,14 +44,69 @@
       "endDate": "2018"
     }
   ],
-  "work": [
+"work": [
+    {
+      "name": "Louisiana State University Health Sciences Center (LSUHSC)",
+      "position": "MD/PhD Candidate (PhD in Microbiology & Bioinformatics)",
+      "location": "New Orleans, LA",
+      "startDate": "05/2018",
+      "endDate": "Present",
+      "highlights": [
+        "Completed PhD training in the Christopher Taylor Lab.",
+        "Dissertation: Temporal dynamics of the vaginal microbiome prior to incident bacterial vaginosis.",
+        "Integrated molecular profiling and computational modeling to identify microbial shifts preceding BV."
+      ]
+    },
+    {
+      "name": "MD Anderson Cancer Center, Department of Radiation Oncology",
+      "position": "Joint-Appointed Graduate Student (non-UTHealth)",
+      "location": "Houston, TX",
+      "startDate": "06/2020",
+      "endDate": "05/2024",
+      "highlights": [
+        "Research in the Lauren Colbert Lab studying microbiome–cancer interactions and treatment response.",
+        "Project focus: cervical dysbiosis and progression of HPV-associated cervical dysplasia to cancer."
+      ]
+    },
     {
       "name": "MD Anderson Cancer Center",
-      "position": "Joint PhD Candidate & Graduate Researcher",
+      "position": "Student Researcher (Anil Korkut Lab)",
       "location": "Houston, TX",
-      "startDate": "2018",
-      "endDate": "2024",
-      "summary": "Conducted translational microbiome and cancer research using molecular and computational methods in Dr. Lauren Colbert's lab."
+      "startDate": "05/2017",
+      "endDate": "08/2017",
+      "highlights": [
+        "Modeled adaptation and response mechanisms relevant to BRAF inhibitor-resistant melanoma."
+      ]
+    },
+    {
+      "name": "Louisiana State University Health Sciences Center (LSUHSC)",
+      "position": "Student Researcher (Chindo Hicks Lab)",
+      "location": "New Orleans, LA",
+      "startDate": "05/2016",
+      "endDate": "08/2016",
+      "highlights": [
+        "GWAS study to identify genetic markers associated with triple-negative breast cancer risk in African American women."
+      ]
+    },
+    {
+      "name": "Louisiana State University Health Sciences Center (LSUHSC)",
+      "position": "Student Researcher (Liz Simon / Patricia Molina Lab)",
+      "location": "New Orleans, LA",
+      "startDate": "05/2015",
+      "endDate": "08/2015",
+      "highlights": [
+        "Studied combined effects of chronic binge alcohol exposure and SIV on apoptotic signaling in the prefrontal cortex of rhesus macaques."
+      ]
+    },
+    {
+      "name": "Baylor University",
+      "position": "Student Researcher (Marty Harvill Lab)",
+      "location": "Waco, TX",
+      "startDate": "01/2015",
+      "endDate": "05/2015",
+      "highlights": [
+        "Assessed soil quality of the Lake Waco Wetlands for human consumption."
+      ]
     }
   ],
   "volunteer": [
