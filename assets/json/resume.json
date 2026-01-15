@@ -23,29 +23,25 @@
       "institution": "Louisiana State University Health Sciences Center",
       "location": "New Orleans, LA",
       "area": "Medicine & Microbiology, Immunology, and Parasitology",
-      "studyType": "MD/PhD",
+      "studyType": "MD/PhD Candidate",
       "startDate": "2018",
       "endDate": "2026"
     },
     {
+      "institution": "MD Anderson Cancer Center",
+      "studyType": "PhD Candidate & Graduate Researcher",
+      "location": "Houston, TX",
+      "startDate": "2018",
+      "endDate": "2024",
+      "area": "Conducted translational microbiome and cancer research using molecular and computational methods in Dr. Lauren Colbert's lab."
+    },
+    {
       "institution": "Baylor University",
       "location": "Waco, TX",
-      "area": "Bioinformatics",
+      "area": "Bioinformatics, Magna Cum Laude",
       "studyType": "BS",
       "startDate": "2014",
       "endDate": "2018",
-      "honors": [
-        "Magna Cum Laude"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "name": "MD Anderson Cancer Center",
-      "position": "MD/PhD Candidate & Graduate Researcher",
-      "startDate": "2018",
-      "endDate": "2024",
-      "summary": "Conducted translational microbiome and cancer research using molecular and computational methods in Dr. Lauren Colbert's lab."
     }
   ],
   "volunteer": [
