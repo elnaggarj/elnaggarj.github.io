@@ -92,13 +92,68 @@
       "summary": "Trained peers and healthcare professional students in basic life support."
     }
   ],
-  "awards": [
-    {
-      "title": "Alpha Omega Alpha Honor Medical Society",
-      "date": "2025",
-      "awarder": "AOA"
-    }
-  ],
+"awards": [
+  {
+    "title": "Alpha Omega Alpha Honor Medical Society",
+    "date": "09/2025",
+    "awarder": "Inducted into AOA, recognized for excellence in academic performance, leadership, professionalism, and commitment to service"
+  },
+  {
+    "title": "ASTRO–Breast Cancer Research Foundation Medical Student Fellowship",
+    "date": "07/2025",
+    "awarder": "Awarded $2,000 award to attend the 2025 ASTRO Annual Meeting"
+  },
+  {
+    "title": "ASTRO-BCRF Radiation Oncology Visiting Away Rotation Scholarship",
+    "date": "07/2025",
+    "awarder": "$2,500 award to support a radiation oncology away rotation"
+  },
+  {
+    "title": "Chancellor’s Award",
+    "date": "05/2024",
+    "awarder": "Nominated by the LSU Health Sciences Center Department of Microbiology, Immunology, and Parasitology as the representative for the Chancellor's Award."
+  },
+  {
+    "title": "Gordon Research Conference Scholarship (Lactic Acid Bacteria)",
+    "date": "07/2023",
+    "awarder": "Scholarship to attend Lactic Acid Bacteria Biology, Symbioses and Applications - Gordon Research Conference "
+  },
+  {
+    "title": "American STD Association (ASTDA) Small Project Assistance",
+    "date": "08/2022",
+    "awarder": "Competitive funding award to support PhD research on bacterial vaginosis."
+  },
+  {
+    "title": "Stanley W. Watson Education Scholarship",
+    "date": "07/2022",
+    "awarder": "Scholarship to attend the Strategies and Techniques for Analyzing Microbial Population Structures (STAMPS)"
+  },
+  {
+    "title": "UAB Center for Clinical and Translational Science (CCTS) Mini-Sabbatical award",
+    "date": "06/2022",
+    "awarder": "Competitive funding award to attend IDSOG and STAMPS"
+  },
+  {
+    "title": "Interprofessional Student Alliance Leadership Award",
+    "date": "06/2022",
+    "awarder": "[Details](/news/interprofessional-leadership-award/)"
+  },
+  {
+    "title": "Infectious Diseases Society for Obstetrics and Gynecology (IDSOG) Travel Scholarship",
+    "date": "05/2022",
+    "awarder": "$1000 to attend the 2022 IDSOG Annual Meeting, Boston, MA"
+  },
+  {
+    "title": "Diversity Travel Scholarship",
+    "date": "09/2020",
+    "awarder": "Award to attned the 35th MD PhD Conference at University of Colorado, Denver"
+  },
+  {
+    "title": "Magna Cum Laude",
+    "date": "05/2018",
+    "awarder": "B.S. in Bioinformatics, Baylor University"
+  }
+],
   "skills": [
     {
       "name": "Bioinformatics & Data Science",
