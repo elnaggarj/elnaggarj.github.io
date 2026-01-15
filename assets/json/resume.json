@@ -28,10 +28,18 @@
       "endDate": "2026"
     },
     {
+      "institution": "MD Anderson Cancer Center",
+      "studyType": "Joint PhD Candidate & Graduate Researcher",
+      "location": "Houston, TX",
+      "startDate": "2018",
+      "endDate": "2024",
+      "area": "Conducted translational microbiome and cancer research using molecular and computational methods in Dr. Lauren Colbert's lab."
+    },
+    {
       "institution": "Baylor University",
       "location": "Waco, TX",
-      "area": "Bioinformatics, Magna Cum Laude",
-      "studyType": "BS",
+      "area": "Magna Cum Laude",
+      "studyType": "BS Bioinformatics",
       "startDate": "2014",
       "endDate": "2018"
     }
@@ -96,6 +104,12 @@
     "publisher": "medRxiv",
     "releaseDate": "2025-05-05",
     "summary": "Elnaggar JH, Lammons JW, Ardizzone C, Aaron KJ, Jacobs C, Graves KJ, George SM, Luo M, Tamhane A, Łaniewski P, Quayle AJ, Herbst-Kralovetz M, Cerca N, Muzny CA, Taylor CM. DOI: 10.1101/2025.05.02.25326872"
+  },
+  {
+      "name":"U.S. Patent Application No. 63/778,989",
+      "publisher":"Predicting Bacterial Vaginosis Development Using Artificial Neural Networks",
+      "releaseDate":"2025-03-27",
+      "summary":"Inventors: Jacob Elnaggar, Christopher Taylor, John Lammons, Christina Muzny."
   },
   {
     "name": "Tumor-resident Lactobacillus iners confer chemoradiation resistance through lactate-induced metabolic rewiring",
