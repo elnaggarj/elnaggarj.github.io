@@ -92,6 +92,44 @@
       "summary": "Trained peers and healthcare professional students in basic life support."
     }
   ],
+  "publications": [
+  {
+    "name": "Predicting bacterial vaginosis development using artificial neural networks",
+    "publisher": "medRxiv",
+    "releaseDate": "2025-05-05",
+    "summary": "Elnaggar JH, Lammons JW, Ardizzone C, Aaron KJ, Jacobs C, Graves KJ, George SM, Luo M, Tamhane A, Łaniewski P, Quayle AJ, Herbst-Kralovetz M, Cerca N, Muzny CA, Taylor CM. DOI: 10.1101/2025.05.02.25326872"
+  },
+  {
+    "name": "Tumor-resident Lactobacillus iners confer chemoradiation resistance through lactate-induced metabolic rewiring",
+    "publisher": "Cancer Cell",
+    "releaseDate": "2023-11-13",
+    "summary": "Colbert LE, El Alam MB, Wang R, Karpinets T, Lo D, Lynn EJ, Harris TA, Elnaggar JH, et al. DOI: 10.1016/j.ccell.2023.09.012"
+  },
+  {
+    "name": "HPV-related anal cancer is associated with changes in the anorectal microbiome during cancer development",
+    "publisher": "Frontiers in Immunology",
+    "releaseDate": "2023-03-28",
+    "summary": "Elnaggar JH, Huynh VO, Lin D, Hillman RT, Abana CO, El Alam MB, Tomasic KC, Karpinets TV, Kouzy R, Phan JL, Wargo J, Holliday EB, Das P, Mezzari MP, Ajami NJ, Lynn EJ, Minsky BD, Morris VK, Milbourne A, Messick CA, Klopp AH, Futreal PA, Taniguchi CM, Schmeler KM, Colbert LE. DOI: 10.3389/fimmu.2023.1051431"
+  },
+  {
+    "name": "A novel Gardnerella, Prevotella, and Lactobacillus standard that improves accuracy in quantifying vaginal microbial communities",
+    "publisher": "Frontiers in Cellular and Infection Microbiology",
+    "releaseDate": "2023-06-18",
+    "summary": "Elnaggar JH, Ardizzone CM, Cerca N, Toh E, Łaniewski P, Lillis RA, Herbst-Kralovetz M, Quayle AJ, Muzny CA, Taylor CM. DOI: 10.3389/fcimb.2023.1198113"
+  },
+  {
+    "name": "Characterization of vaginal microbial community dynamics in incident bacterial vaginosis: a pilot study",
+    "publisher": "Sexually Transmitted Diseases",
+    "releaseDate": "2023-08-01",
+    "summary": "Elnaggar JH, Lammons JW, Taylor CM, Toh E, Ardizzone CM, Dong A, Aaron KJ, Luo M, Tamhane A, Lefkowitz EJ, Quayle AJ, Nelson DE, Muzny CA. DOI: 10.1097/OLQ.0000000000001821"
+  },
+  {
+    "name": "Precision combination therapies based on recurrent oncogenic co-alterations",
+    "publisher": "Cancer Discovery",
+    "releaseDate": "2022-06-02",
+    "summary": "Li X, Dowling EK, Yan G, Bozorgui B, Imarinad P, Elnaggar JH, Luna A, Menter DG, Kopetz S, Sander C, Korkut A. DOI: 10.1158/2159-8290.CD-21-0832"
+  }
+],
 "awards": [
   {
     "title": "Alpha Omega Alpha Honor Medical Society",
